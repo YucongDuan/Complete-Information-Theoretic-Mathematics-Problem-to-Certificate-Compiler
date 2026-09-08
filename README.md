@@ -1,11 +1,13 @@
 # DIKWP-CITM Forge
 
+Created by Yucong Duan (段玉聪).
+
 [Quick start / 快速开始](#quick-start--快速开始) · [Core outputs / 核心输出](#core-outputs--核心输出) · [Download the release package / 下载发布包](./DIKWP-CITM-Forge-v1.0.0.zip)
 
-> **Release layout / 发布结构** — The runnable source is distributed in `DIKWP-CITM-Forge-v1.0.0.zip`. Extract it first; the commands below assume that you have entered the extracted `DIKWP-CITM-Forge-v1.0.0` directory. / 可运行源码位于上述 ZIP 发布包中；请先解压。下方命令默认已经进入解压后的 `DIKWP-CITM-Forge-v1.0.0` 目录。
+> Release layout / 发布结构 — The runnable source is distributed in `DIKWP-CITM-Forge-v1.0.0.zip`. Extract it first; the commands below assume that you have entered the extracted `DIKWP-CITM-Forge-v1.0.0` directory. / 可运行源码位于上述 ZIP 发布包中；请先解压。下方命令默认已经进入解压后的 `DIKWP-CITM-Forge-v1.0.0` 目录。
 
-**Complete Information-Theoretic Mathematics Problem-to-Certificate Compiler**  
-**完全信息理论数学：问题—证书编译与审计系统**
+Complete Information-Theoretic Mathematics Problem-to-Certificate Compiler  
+完全信息理论数学：问题—证书编译与审计系统
 
 DIKWP-CITM Forge converts a declared mathematical problem into a deterministic, hash-linked, machine-readable audit package. It combines finite information-theory calculations, future-effect quotients, plural world models, D/I/K/W/P record constellations, twenty-five record-level route kinds, proof obligations, and a strict reduction firewall.
 
