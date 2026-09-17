@@ -1,5 +1,13 @@
 # DIKWP-CITM Forge
 
+
+[**Start here · 使用导读**](GETTING_STARTED.md) · [Project details · 项目详情](https://github.com/YucongDuan/YucongDuan/blob/main/projects/1344438920.md)
+
+Compile declared mathematical problems into finite certificates, explicit proof obligations and deterministic audit records.
+
+把声明的数学问题编译为有限范围证书、明确的证明义务与确定性审计记录。
+
+
 Created by Yucong Duan (段玉聪).
 
 [Quick start / 快速开始](#quick-start--快速开始) · [Core outputs / 核心输出](#core-outputs--核心输出) · [Download the release package / 下载发布包](./DIKWP-CITM-Forge-v1.0.0.zip)
